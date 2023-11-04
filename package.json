@@ -1,7 +1,7 @@
 {
   "homepage": "https://rishabhdixit999.github.io/react-todo-app",
   "name": "react-todo",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
